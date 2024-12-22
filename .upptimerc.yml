@@ -20,6 +20,6 @@ status-website:
       href: /
     - title: Contact
       href: https://www.helalk.com/p/contact-us.html
-
+delay: 2000 # 2 seconds
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
