@@ -1,7 +1,7 @@
 url: https://www.helalk.com
-status: up
-code: 200
-responseTime: 391
-lastUpdated: 2025-09-10T23:12:19.689Z
+status: down
+code: 429
+responseTime: 424
+lastUpdated: 2025-09-10T23:40:28.614Z
 startTime: 2024-10-21T02:55:18.092Z
 generator: Upptime <https://github.com/upptime/upptime>
