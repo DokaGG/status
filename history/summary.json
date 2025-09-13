@@ -6,7 +6,7 @@
     "slug": "helalk-main",
     "status": "down",
     "uptime": "38.64%",
-    "uptimeDay": "82.04%",
+    "uptimeDay": "79.55%",
     "uptimeWeek": "29.17%",
     "uptimeMonth": "4.81%",
     "uptimeYear": "38.64%",
@@ -16,6 +16,7 @@
     "timeMonth": 551,
     "timeYear": 306,
     "dailyMinutesDown": {
+      "2025-09-13": 36,
       "2025-09-12": 259,
       "2025-09-11": 126,
       "2025-09-10": 1040,
