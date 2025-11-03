@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.redfix.lk.ico",
     "slug": "redfix",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "2.99%",
+    "uptimeDay": "2.99%",
+    "uptimeWeek": "2.99%",
+    "uptimeMonth": "2.99%",
+    "uptimeYear": "2.99%",
     "time": 339,
     "timeDay": 339,
     "timeWeek": 339,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-03": 0
+    }
   }
 ]
