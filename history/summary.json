@@ -1,22 +1,22 @@
 [
   {
     "name": "REDFIX",
-    "url": "https://www.redfix.lk",
-    "icon": "https://icons.duckduckgo.com/ip3/www.redfix.lk.ico",
+    "url": "https://redfix.lk",
+    "icon": "https://icons.duckduckgo.com/ip3/redfix.lk.ico",
     "slug": "redfix",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
-    "time": 338,
-    "timeDay": 338,
-    "timeWeek": 338,
-    "timeMonth": 338,
-    "timeYear": 338,
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
+    "time": 286,
+    "timeDay": 286,
+    "timeWeek": 286,
+    "timeMonth": 286,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2025-11-03": 5
+      "2025-11-03": 10
     }
   }
 ]
