@@ -4,7 +4,7 @@ repo: status # The name of this repository
 
 sites:
   - name: REDFIX
-    url: https://www.redfix.lk
+    url: https://redfix.lk
     method: POST
 
 status-website:
